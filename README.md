@@ -8,6 +8,6 @@
 
 | Number      | read |
 | :---------: | :---------- |
-|      1      | [read01](https://essamomar93.github.io/reading-notes/read01)       |
-|      1      | [read02](https://essamomar93.github.io/reading-notes/read02)       |
+|      1      | [read01](read01)|
+|      2      | [read02](read02)|
 
