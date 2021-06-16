@@ -9,7 +9,7 @@ star with difinition of html is a markup language that defines the structure of 
 
 ##### The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  For example
 
-<p> any text </p> 
+(<p>any text</p>) 
 
 #### for the semantics ?
 its the meaning of somthing
