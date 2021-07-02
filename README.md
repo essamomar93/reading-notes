@@ -10,7 +10,7 @@
 
 | Assiment| Link            |
 | :---:   | :----------     |
-|Class 01 | [read01](read01)|
+|Class 01 | [read01](102/read01)|
 |Class 02 | [read02](read02)|
 |Class 03 | [read03](read03)|
 |Class 04 | [read04](read04)|
@@ -22,7 +22,7 @@
 
 | Assiment| Link              |
 | :---:   | :----------       |
-| Class 01| [read01](class-01)|
+| Class 01| [read01](201/class-01.md)|
 | Class 02| [read02](class-02)|
 | Class 03| [read03](class-03)|
 | Class 04| [read04](class-04)|
