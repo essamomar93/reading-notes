@@ -31,10 +31,12 @@ how to give a web browser instructions you want it to follow ?
 * statment : A script is a series of instructions that a computer can follow one-by-one. 
 Each individual instruction or step is known as a statement. 
 Statements should end with a semicolon.   
-e.g :  
+e.g : 
+``` 
  var today= new Date{);  
  var hourNow = today.getHours{) ;  
- var greeting;    
+ var greeting;
+ ```    
  * COMMENTS : we use /* */ or ctrl+?
  * variable : we can add variable usein ( var or let or const) 
   
@@ -42,9 +44,10 @@ e.g :
  * If statment : 
   Use the if statement to specify a block of JavaScript code to be executed if a condition is true.  
   syntax  
-  
-  <!-- if (condition) {  
+```
+if (condition) {  
   //  block of code to be executed if the condition is true  
 } else {  
   //  block of code to be executed if the condition is false  
-}   -->
+}  
+```
