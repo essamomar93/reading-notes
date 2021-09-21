@@ -56,7 +56,6 @@
 | Class 12| [read12](301/301-12.md)|
 | Class 13| [read13](301/301-13.md)|
 | Class 14| [read14](301/301-14.md)|
-| Class 15| [read15](301/301-15.md)|
 
 ## Corse 401:(Advanced Software Development
 
