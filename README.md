@@ -61,6 +61,7 @@
 
 | Assiment| Link              |
 | :---:   | :----------       |
+| pre Class | [pre read](401/401-pre.md)|
 | Class 01| [read01](401/401-01.md)|
 | Class 02| [read02](401/401-02.md)|
 | Class 03| [read03](401/401-03.md)|
@@ -75,3 +76,5 @@
 | Class 12| [read12](401/401-12.md)|
 | Class 13| [read13](401/401-13.md)|
 | Class 14| [read14](401/401-14.md)|
+
+/home/essam1993/reading-notes/401/401-01.md
